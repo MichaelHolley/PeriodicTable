@@ -4,5 +4,5 @@ This is a JavaFX Application showing a interactive periodic table which links yo
 <img src = "PeriodicTablePreview.PNG" width = "850">
 
 # Future features
-- extra information of the element in the information-window on the right (image, weight, ...)
+- further information of the element in the information-window on the right (image, ...)
 - colored tiles for metals and nonmetals

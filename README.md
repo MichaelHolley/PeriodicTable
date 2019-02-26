@@ -9,7 +9,7 @@ This is a JavaFX Application showing a interactive periodic table which links yo
 - the element information is saved locally -> download updated lists
 
 # Usage
-Downloading, launching and using the PerdiodicTable.jar-file doesnt require any other downloads, code or software. It can be launched just like any other .exe/.bat
+Downloading, launching and using the PerdiodicTable.jar-file doesn't require any other downloads, code or software. It can be launched just like any other .exe/.bat
 When using the code/project the simplejson.jar/library is necessary.
 
 # Known Issues

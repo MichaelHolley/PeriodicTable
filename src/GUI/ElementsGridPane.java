@@ -47,7 +47,7 @@ public class ElementsGridPane extends GridPane {
 		this.add(ne_Button, 17, 1);
 		
 		// Row 3
-		Button na_Button = new ElementButton(11, "Na", "Natrium");
+		Button na_Button = new ElementButton(11, "Na", "Sodium");
 		this.add(na_Button, 0, 2);
 		Button mg_Button = new ElementButton(12, "Mg", "Magnesium");
 		this.add(mg_Button, 1, 2);
@@ -121,7 +121,7 @@ public class ElementsGridPane extends GridPane {
 		this.add(ru_Button, 7, 4);
 		Button rh_Button = new ElementButton( 45, "Rh", "Rhodium");
 		this.add(rh_Button, 8, 4);
-		Button pd_Button = new ElementButton( 46, "Pd", "Nickel");
+		Button pd_Button = new ElementButton( 46, "Pd", "Palladium");
 		this.add(pd_Button, 9, 4);
 		Button ag_Button = new ElementButton( 47, "Ag", "Silver");
 		this.add(ag_Button, 10, 4);
@@ -171,7 +171,7 @@ public class ElementsGridPane extends GridPane {
 		this.add(au_Button, 10, 5);
 		Button hg_Button = new ElementButton(80, "Hg", "Mercury");
 		this.add(hg_Button, 11, 5);
-		Button tl_Button = new ElementButton(81, "Tl", "Thalium");
+		Button tl_Button = new ElementButton(81, "Tl", "Thallium");
 		this.add(tl_Button, 12, 5);
 		Button pb_Button = new ElementButton(82, "Pb", "Lead");
 		this.add(pb_Button, 13, 5);
@@ -214,19 +214,19 @@ public class ElementsGridPane extends GridPane {
 		this.add(ds_Button, 9, 6);
 		Button rg_Button = new ElementButton( 111, "Rg", "Roentgenium");
 		this.add(rg_Button, 10, 6);
-		Button uub_Button = new ElementButton( 112, "Uub", "Ununbium");
+		Button uub_Button = new ElementButton( 112, "Uub", "Copernicium");
 		this.add(uub_Button, 11, 6);
-		Button uut_Button = new ElementButton( 113, "Uut", "Ununtrium");
+		Button uut_Button = new ElementButton( 113, "Uut", "Nihonium");
 		this.add(uut_Button, 12, 6);
-		Button uuq_Button = new ElementButton( 114, "Uuq", "Ununquadium");
+		Button uuq_Button = new ElementButton( 114, "Uuq", "Flerovium");
 		this.add(uuq_Button, 13, 6);
-		Button uup_Button = new ElementButton( 115, "Uup", "Ununpentium");
+		Button uup_Button = new ElementButton( 115, "Uup", "Moscovium");
 		this.add(uup_Button, 14, 6);
-		Button uuh_Button = new ElementButton( 116, "Uuh", "Ununhexium");
+		Button uuh_Button = new ElementButton( 116, "Uuh", "Livermorium");
 		this.add(uuh_Button, 15, 6);
-		Button uus_Button = new ElementButton( 117, "Uus", "Ununseptium");
+		Button uus_Button = new ElementButton( 117, "Uus", "Tennessine");
 		this.add(uus_Button, 16, 6);
-		Button uuo_Button = new ElementButton( 118, "Uuo", "Ununoctium");
+		Button uuo_Button = new ElementButton( 118, "Uuo", "Oganesson");
 		this.add(uuo_Button, 17, 6);
 		
 		// Separator
@@ -273,7 +273,7 @@ public class ElementsGridPane extends GridPane {
 		this.add(pa_Button, 4, 15);
 		Button u_Button = new ElementButton( 92, "U", "Uranium");
 		this.add(u_Button, 5, 15);
-		Button np_Button = new ElementButton( 93, "Np", "Neptumium");
+		Button np_Button = new ElementButton( 93, "Np", "Neptunium");
 		this.add(np_Button, 6, 15);
 		Button pu_Button = new ElementButton( 94, "Pu", "Plutonium");
 		this.add(pu_Button, 7, 15);

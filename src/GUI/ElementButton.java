@@ -23,7 +23,15 @@ public class ElementButton extends Button {
 	}
 	
 	private void setInformationWindow() {
-		PeriodicTableApp.infoWindow.setLongNameLabel(nameLong);
-		PeriodicTableApp.infoWindow.setElementLink(nameLong);
+		PeriodicTableApp.setLongNameLabel(nameLong + " | (" + shortend + ")");
+		PeriodicTableApp.setElementLink(nameLong);
+		PeriodicTableApp.setAtomicNumLabel(atomicNum);
+		PeriodicTableApp.setAtomicMassLabel(atomicNum);
+		PeriodicTableApp.setAtomicRadiusLabel(atomicNum);
+		PeriodicTableApp.setStandardStateLabel(atomicNum);
+		PeriodicTableApp.setBondingTypeLabel(atomicNum);
+		PeriodicTableApp.setMeltingPointLabel(atomicNum);
+		PeriodicTableApp.setBoilingPointLabel(atomicNum);
+		PeriodicTableApp.setYearDiscoveredLabel(atomicNum);
 	}
 }

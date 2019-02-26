@@ -1,5 +1,14 @@
 #element-button {
 	-fx-font-size: 10.0px;
 	-fx-font-weight: bold;
-	/*-fx-font-family: "Overpass Mono";*/
+}
+
+#info-label-header {
+	-fx-font-family: "Overpass Mono";
+	-fx-font-size: 12.0px;
+}
+
+#info-label-text {
+	-fx-font-family: "Overpass Mono";
+	-fx-font-size: 12.0px;
 }

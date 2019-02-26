@@ -7,6 +7,7 @@ This is a JavaFX Application showing a interactive periodic table which links yo
 - further information of the element in the information-window on the right (image, ...)
 - colored tiles for metals and nonmetals
 - the element information is saved locally -> download updated lists
+- better Visuals (CSS-Style-improvements)
 
 # Usage
 Downloading, launching and using the PerdiodicTable.jar-file doesn't require any other downloads, code or software. It can be launched just like any other .exe/.bat

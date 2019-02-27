@@ -14,4 +14,4 @@ Downloading, launching and using the PerdiodicTable.jar-file doesn't require any
 When using the code/project the simplejson.jar/library is necessary.
 
 # Known Issues
-- when launching the applet on the desktop with scaled desktop, the aspect-ratio and layou may look weird and do not represent the applet, I want it to be. (WIP)
+- when launching the applet on the desktop with scaled desktop, the aspect-ratio and layout may look weird and do not represent the applet, I want it to be. (WIP)

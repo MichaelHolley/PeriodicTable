@@ -5,7 +5,7 @@ This is a JavaFX Application showing a interactive periodic table which links yo
 
 # Future features
 - further information of the element in the information-window on the right (image, ...)
-- colored tiles for metals and nonmetals
+- colored tiles for metals, ...
 - the element information is saved locally -> download updated lists with launch
 - better Visuals (CSS-Style-improvements)
 

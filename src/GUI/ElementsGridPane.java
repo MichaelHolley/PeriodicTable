@@ -208,7 +208,7 @@ public class ElementsGridPane extends GridPane {
 		this.add(bh_Button, 6, 6);
 		Button hs_Button = new ElementButton(108, "Hs", "Hassium");
 		this.add(hs_Button, 7, 6);
-		Button mt_Button = new ElementButton(104, "Mt", "Meitnerium");
+		Button mt_Button = new ElementButton(109, "Mt", "Meitnerium");
 		this.add(mt_Button, 8, 6);
 		Button ds_Button = new ElementButton( 110, "Ds", "Darmstadtium");
 		this.add(ds_Button, 9, 6);

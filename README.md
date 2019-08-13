@@ -15,3 +15,4 @@ When using the code/project the simplejson.jar/library is necessary.
 
 # Known Issues
 - when launching the applet on the desktop with scaled desktop, the aspect-ratio and layout may look weird and do not represent the applet, I want it to be. (WIP)
+- saving the information in a string is horrible to store data, which should be easy to view and edit.

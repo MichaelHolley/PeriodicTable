@@ -1,5 +1,5 @@
 # PeriodicTable
-This is a JavaFX Application showing a interactive periodic table which links you to the element's wikipedia-page for now.
+This is a JavaFX Application showing a interactive periodic table which links you to the element's wikipedia-page and shows information about the element.
 
 <img src = "PeriodicTable.png" width = "850">
 
